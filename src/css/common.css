@@ -108,6 +108,7 @@ img {
     border-radius: 5px;
   }
   #myBtn {
+    box-sizing: border-box;
     width: 64px;
     height: 64px;
     display: none; /* Hidden by default */
